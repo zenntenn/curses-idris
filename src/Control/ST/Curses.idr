@@ -1,6 +1,6 @@
-module Effect.Curses
+module Control.ST.Curses
 
-import Effects
+import Control.ST
 import public UI.Curses
 
 %access export

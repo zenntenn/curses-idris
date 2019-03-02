@@ -1,10 +1,12 @@
 package curses
 
 sourcedir = src
-modules = UI.Curses, Effect.Curses
-opts = "-p effects"
+modules = UI.Curses, Control.ST.Curses
+opts = "-p contrib"
 
 makefile = MakefileCursesC
 
 objs = cursesrun.o, cursesrun.h
 libs = curses
+
+
