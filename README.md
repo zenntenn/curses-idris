@@ -2,7 +2,7 @@
 
 Curses bindings package for Idris
 
-CURRENTLY UNMAINTAINED
+BEGINNING MAINTINANCE
 
 ## Installation
 
